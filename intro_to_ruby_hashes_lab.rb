@@ -23,7 +23,7 @@ def monopoly_with_third_tier
         :key_four=>"value"
       },
       :rent_in_dollars=>{
-        :key_one=>"value",
+        :one_piece_owned=>25,
         :key_two=>"value",
         :key_three=>"value",
         :key_four=>"value"
