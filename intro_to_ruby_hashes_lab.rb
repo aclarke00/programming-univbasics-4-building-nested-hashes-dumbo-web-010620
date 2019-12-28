@@ -19,7 +19,7 @@ def monopoly_with_third_tier
       :names=>{
         :reading_railroad=>{},
         :pennsylvania_railroad=>{},
-        :key_three=>"value",
+        :b_and_o_railroad=>{},
         :key_four=>"value"
       },
       :rent_in_dollars=>{
